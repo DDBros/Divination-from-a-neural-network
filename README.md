@@ -1,1 +1,0 @@
-# Divination-from-a-neural-network
